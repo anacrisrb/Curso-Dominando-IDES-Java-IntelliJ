@@ -1,8 +1,8 @@
 # Curso: Dominando IDES Java (Bootcamp DIO - Banco Pan)
 
-## Repositorio de estudo da Linguagem de Programação Java utilizando a IDE IntelliJ 
+### Repositório de estudo da Linguagem de Programação Java utilizando a IDE IntelliJ 
 
-# Links úteis: 
+#### Links úteis: 
 
  - [Donwload IntelliJ](https://www.jetbrains.com/idea/download/#section=mac) 
  - [Atalhos IntelliJ - Windows](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea)
